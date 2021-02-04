@@ -45,3 +45,28 @@
 > If you don't have time to read, you don't have the time (or the tools) to write. Simple as that -*Stephen King*<br>
 > We write to taste life twice, in the moment and in retrospect -*Anaïs Nin*
 
+---
+
+### C++
+> C++ is a very popular language for performance-critical applications that rely on speed and efficient memory management.
+[About C++](https://en.wikipedia.org/wiki/C%2B%2B)
+
+---
+C++ Sample program for print Number entered by user
+
+#include <iostream>
+using namespace std;
+
+int main()
+{    
+    int number;
+
+    cout << "Enter an integer: ";
+    cin >> number;
+
+    cout << "You entered " << number;    
+    return 0;
+}
+
+ ---
+[About Code](https://www.programiz.com/cpp-programming/examples/read-print-integer)
