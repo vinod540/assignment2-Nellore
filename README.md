@@ -40,3 +40,8 @@
 
 ---
 
+### Favourite Quote
+
+> If you don't have time to read, you don't have the time (or the tools) to write. Simple as that -*Stephen King*<br>
+> We write to taste life twice, in the moment and in retrospect -*Anaïs Nin*
+
