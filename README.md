@@ -23,3 +23,20 @@
 * Serve elachi tea immediately.
 
 [About Me](https://github.com/vinod540/assignment2-Nellore/blob/main/AboutMe.md)
+
+---
+
+### Interesting places to visit
+ India is the largest Country in the South Asia region. Tirupati is known as the abode of the Hindu god Venkateshvara, Lord of Seven Hills. New Delhi is the capital of India.Goa is famous for beaches.Kolkata it is called the city of joy.
+
+ |Location|No.of hours that a visitor should spend|Cost of trip|
+
+|--- |      ---                                   |---|
+
+|Tirupati | 48                                    |$200|
+|New Delhi| 30                                    |$350|
+|Goa |      35                                    |$400|
+|Kolkata |  24                                    |$300|
+
+---
+
